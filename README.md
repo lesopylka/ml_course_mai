@@ -7,13 +7,13 @@
 
 | Лабораторная работа | ТЗ |
 |---|------|
-| № 1 Регрессия | [lab01.pdf](./labs/lab01.pdf) | 
-| № 2 Классификация |  [lab02.pdf](./labs/lab02.pdf)| 
-| № 3 Оптимизация гиперпарметров на первом или втором датасете по выбору| [lab03.pdf](./labs/lab03.pdf) | 
-| № 4  Сеть Байеса| [lab04.pdf](./labs/lab04.pdf) | 
+| № 1 Регрессия | [lab01.pdf](./regression/lab01.pdf) | 
+| № 2 Классификация |  [lab02.pdf](./classification/lab02.pdf)| 
+| № 3 Оптимизация гиперпарметров на первом или втором датасете по выбору| [lab03.pdf](./hyperparameters/lab03.pdf) | 
+| № 4  Сеть Байеса| [lab04.pdf](./bayesian/lab04.pdf) | 
 
 ### Семинары
-- [sem01.ipynb](./seminars/sem01.ipynb) 
+- [sem01.ipynb](./regression/sem01.ipynb) 
   
 ### Проект (опционально)
 - [project.pdf](./project/project.pdf) 
